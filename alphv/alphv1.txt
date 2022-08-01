@@ -1,0 +1,28 @@
+Hello, [snip]
+
+>> What happened?
+
+Important files on your network was ENCRYPTED and now they have "${EXTENSION}" extension.
+In order to recover your files you need to follow instructions below.
+
+>> Sensitive Data
+
+Sensitive data on your network was DOWNLOADED.
+If you DON'T WANT your sensitive data to be PUBLISHED you have to act quickly.
+
+Data includes:
+- MICROS DATABASE, Accounting, Drawings
+- Check Copies, Engineering, HR, Banking Information
+- Payroll Scan, Sales and Marketing, Financia
+- And more...
+
+>> CAUTION
+
+DO NOT MODIFY ENCRYPTED FILES YOURSELF.
+DO NOT USE THIRD PARTY SOFTWARE TO RESTORE YOUR DATA.
+YOU MAY DAMAGE YOUR FILES, IT WILL RESULT IN PERMANENT DATA LOSS.
+
+>> What should I do next?
+
+1) Download and install Tor Browser from: https://torproject.org/
+2) Navigate to: http://d75itpgjjfe2ys2qivqplbvmw3yyx7o5e4ppt2esit2lluhngulz4hqd.onion/?access-key=[snip]
