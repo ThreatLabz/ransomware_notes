@@ -1,0 +1,19 @@
+You've been hacked. All your corporate network servers and workstations are encrypted.
+Your company is a victim of double extortion ransomware attack.
+
+What is it? Basically it means that not only your data is encrypted, but it's also have been exfiltrated from your network.
+
+Double Extortion attack explained in details :
+https://www.zscaler.com/resources/security-terms-glossary/what-is-double-extortion-ransomware
+
+===== What now? =====
+
+If you want your network to be fully operational again and if you want us not to publish all files we've taken :
+
+1. Download Tor Browser from original site : https://torproject.org
+2. Open this url in Tor Browser and visit this website : hxxps://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd\.onion/
+3. Enter this key : [snip]
+
+If you've done everything correctly - now you are able to contact us and take a chance to leave this all behind for a reasonable fee.
+
+NOTE : If TOR network is unavailable by any reason - you can use any VPN service to solve it.
