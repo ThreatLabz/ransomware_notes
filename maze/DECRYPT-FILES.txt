@@ -21,7 +21,7 @@ There are general 2 ways to reach us:
   a) Download a special TOR browser: https://www.torproject.org/
   b) Install the TOR Browser.
   c) Open the TOR Browser.
-  d) Open our website in the TOR browser: http://aoacugmutagkwctu.onion/8798098848a9e75a
+  d) Open our website in the TOR browser: http://aoacugmutagkwctu.onion/[snip]
   e) Follow the instructions on this page. 
 
 2) If you have any problems connecting or using TOR network
