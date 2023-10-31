@@ -1,0 +1,32 @@
+> WHAT HAPPEND?
+
+Important files on your network have been ENCRYPTED and now have the extension {ext}.
+To recover your files, you need to follow the instructions below.
+
+> SENSITIVE DATA
+
+Sensitive data from your network has been DOWNLOADED.
+If you DON'T WANT to your sensitive data PUBLISHED on our leak blog, you must act quickly.
+
+LEAK BLOG: noescapemsqxvizdxyl7f7rmg5cdjwp33pg2wpmiaaibilb4btwzttad.onion
+
+Data includes:
+- Personal data of employees, resume, DL, SSN.
+- Complete network map, including credentials for local and remote services.
+- Private financial information including: customer data, accounts, budgets, annual reports, bank statements.
+- Production documentation, including: datagrams, diagrams, drawings.
+- And much more...
+
+Sample DOWNLOADED FILES are available in your user panel.
+
+> CAUTION
+
+DO NOT MODIFY ENCRYPTED FILES BY YOURSELF.
+DO NOT USE THIRD PARTY SOFTWARE TO RESTORE YOUR DATA.
+YOU MAY DAMAGE YOUR FILES, THIS WILL RESULT IN PERMANENT DATA LOSS.
+
+> WHAT SHOULD I DO NEXT?
+
+You need to contact us:
+1. Download and install TOR browser: https://www.torproject.org/
+2. Go to your user panel: bwjbbpbcihglahwxxusmyy2nxqdc4oqy4rvyhayn4dxhqzji4qi7taid.onion/[snip]
