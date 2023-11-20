@@ -1,0 +1,10 @@
+Hello!
+
+Your data was encrypted.
+Please don’t try to modify or rename any of encrypted files, because it can result in serious data loss and decryption failure.
+
+Note that we've downloaded a lot of your files from [snip] and we are ready to publish it.
+Contact us ASAP to prevent it.
+
+Your personal link with full information regarding this accident (use Tor browser):
+http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/[snip]/
