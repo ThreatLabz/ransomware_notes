@@ -1,0 +1,23 @@
+All your files were stolen by us
+
+We stole a 1T file from this location
+[snip]
+Contact us for get price
+
+You have 3 days to contact us for negotiation.
+"If you don't contact within three days, we'll start leaking data."
+
+1) Contact our session.
+session download address: https://getsession.org/
+Our poison ID:
+
+05cb63af9848ae85a0016581a14a9848d516ed2f9fcb4f98a081363c48ee7f570b
+
+* Note that this server is available via Tor browser only
+
+Follow the instructions to open the link:
+"1. Type the addres ""https://www.torproject.org"" in your Internet browser. It opens the Tor site."
+"2. Press ""Download Tor"", then press ""Download Tor Browser Bundle"", install and run it."
+3. Now you have Tor browser. In the Tor Browser open :
+
+http://3ytm3d25hfzvbylkxiwyqmpvzys5of7l4pbosm7ol7czlkplgukjq6yd.onion/post/[snip]/
