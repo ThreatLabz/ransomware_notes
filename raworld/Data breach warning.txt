@@ -1,0 +1,45 @@
+# RA World
+----
+## Notification
+Your data are stolen and encrypted when you read this letter.
+We have copied all data to our server.
+Don't worry, your data will not be made public if you do what I want.
+But if you don't pay, we will release the data, contact your customers and regulators and destroy your system again.
+We can decrypt some files to prove that the decrypt tool works correctly.
+
+## What we want?
+Contact us, pay for ransom.
+If you pay, we will provide you the programs for decryption and we will delete your data where on our servers.
+If not, we will leak your datas and your company will appear in the shame list below.
+If not, we will email to your customers and report to supervisory authority.
+
+## How contact us?
+We use qTox to contact, you can download qTox from office website:
+https://qtox.github.io 
+
+Our qTox ID is:
+358AC0F6C813DD4FD243524F040E2F77969278274BD8A8945B5041A249786E32CC784580F2EC
+
+We have no other contacts.
+If there is no contact within 3 days, you will appear on our website and we will make sample files public.
+If there is no contact within 7 days, we will stop communicating and release data in batches.
+The longer time, the higher ransom.
+
+## RA World Office Site:
+[Permanent address] http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion 
+[Temporary address] http://161.35.200.18 
+
+## Sample files release link:
+Sample files:
+https://gofile.io/d/[snip] 
+
+## Unpay Victim Lists
+*** You'll be here too if you don't pay! ***
+*** More and more people will get your files! ***
+
+[snip]
+
+You can use Tor Browser to open .onion url.
+Ger more information from Tor office website:
+https://www.torproject.org 
+
