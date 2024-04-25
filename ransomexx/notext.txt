@@ -1,0 +1,5 @@
+Attention: Your data has undergone encryption.\nIt is imperative that you abstain from any attempts to modify or rename the encrypted files,
+as such actions could result in substantial data loss and decryption complications.
+
+Access your personalized link to communicate with us about resolving this issue (make sure to use the Tor browser):
+http://jbdg4buq6jd7ed3rd6cynqtq5abttuekjnxqrqyvk4xam5i7ld33jvqd.onion/[snip]/chat
