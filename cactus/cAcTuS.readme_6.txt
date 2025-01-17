@@ -1,0 +1,16 @@
+Your corporate network was compromised and encrypted by Cactus.
+Do not interrupt the encryption process, don't stop or reboot your machines until the encryption is complete. Otherwise the data may be corrupted.
+In addition to the encrypted infrastructure, we have downloaded a lot of confidential information from your systems. The publication of these documents may cause the termination of your commercial activities, contracts with your clients and partners, and multiple lawsuits.
+If you ignore this warning and do not contact us, your sensitive data will be posted on our blog: https://cactusbloguuodvqjmnzlwetjlpj6aggc6iocwhuupb47laukux7ckid.onion/
+In your best interest is to avoid contacting law enforcement and data recovery companies. They can't help you with the recovery, will cause more problems and expenses, and delay the return to normal work significantly.
+Besides, if you contact the police we will immediately publish your data.
+A quick recovery is very important to keep your business running at full capacity and minimize losses. This is why you need to begin negotiations as soon as possible. By the way, if you don't contact us within 5 days, we will start publishing your data.
+Download TOR Browser (https://www.torproject.org/download) and follow the link:
+http://webmail.74racbmxqyyd5jbtmdk7zd2qvpmfcvdigao64bm6iyxfujgqpyirhpid.onion
+Your username: [snip]
+Your password: [snip]
+Reply to the welcome email and we will get your message.
+
+Backup contact is TOX (https://tox.chat):
+7367B422CD7498D5F2AAF33F58F67A332F8520CF0279A5FBB4611E0121AE421AE1D49ACEABB2
+
