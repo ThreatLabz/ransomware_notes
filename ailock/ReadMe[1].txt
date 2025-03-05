@@ -16,7 +16,7 @@ Terms and Conditions:
 To initiate the negotiation process, please proceed with the following steps:
 
 1) Download the Tor Browser from it's official website: https://www.torproject.org/
-2) Use the provided credentials to log into the Chat for text-based negotiations: http://jaawqs6wu56n2adj7qrjg25dhcux2nislvjouffpzldj23e4y72akoid.onion/[snip]
+2) Use the provided credentials to log into the Chat for text-based negotiations: http://[snip]qs6wu56n2adj7qrjg25dhcux2nislvjouffpzldj23e4y72akoid.onion/[snip]
 
 We all understand what happened and what consequences await you.
 
