@@ -1,0 +1,44 @@
+Action Required: Data Breach Notification  
+
+Your Data Is Now Beyond Your Control  
+
+We have taken control of your systems, encrypted your critical files, and extracted sensitive data. This is a pivotal moment for your organization—your actions now will determine the outcome.  
+
+---
+
+What You Need to Understand  
+Your data security was compromised because of insufficient protection. As a result:  
+1. All access to important files has been restricted through encryption.  
+2. We possess confidential business records, personal data, and other critical information.  
+3. If you do not respond within 72 hours, we will initiate the public release of your data, creating irreversible damage.  
+
+---
+
+The Risks You Face:  
+Failure to act swiftly puts your organization at risk of:  
+- Legal violations under GDPR, GLBA, CCPA, HIPAA, NYDFS Cybersecurity Regulation, and DPA 2018.  
+- Financial penalties for failing to protect Non-Public Information (NPI).  
+- Reputational harm as clients, partners, and the public lose trust in your ability to safeguard their data.  
+
+---
+
+What You Must Do Immediately:  
+1. Initiate Communication:  
+   - Access our recovery portal using TOR Browser.  
+   - Download TOR from [https://www.torproject.org](https://www.torproject.org).  
+   - Visit http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/chat.php, using your Organization ID [snip] to start the negotiation process.
+
+2. Alternative Browser Access:  
+   - Use Chrome, Edge, or Firefox to open http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion.ly/chat.php
+   - Enter your Organization ID [snip] to receive detailed recovery instructions.  
+
+---
+
+What Happens Next:  
+- If we do not hear from you within 72 hours, your data will be exposed to the public and sold to interested parties.  
+- The ensuing violations of laws such as GDPR and HIPAA will lead to significant penalties, lawsuits, and regulatory scrutiny.  
+
+---
+
+Your Responsibility:  
+Your organization is fully accountable for protecting the data it collects. By neglecting this responsibility, you have allowed this situation to unfold. Your chance to regain control is limited—act decisively to avoid catastrophic outcomes.  
