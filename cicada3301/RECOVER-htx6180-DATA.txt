@@ -1,0 +1,42 @@
+*************************************
+***     Welcome to Cicada3301     ***
+*************************************
+
+** What Happened? **
+----------------------------------------------
+Your computers and servers are encrypted, your backups are deleted.
+We use strong encryption algorithms, so you won't be able to decrypt your data.
+You can recover everything by purchasing a special data recovery program from us. 
+This program will restore your entire network.
+
+** Data Leak **
+----------------------------------------------
+We have downloaded more than %SIZE% GB of your company data. 
+Contact us, or we will be forced to publish all your data on the Internet
+and send it to all regulatory authorities in your country, as well as to your customers, partners, and competitors.
+
+We are ready to:
+- Provide you with proof that the data has been stolen;
+- Delete all stolen data;
+- Help you rebuild your infrastructure and prevent similar attacks in the future;
+
+** What Guarantees? **
+----------------------------------------------
+Our reputation is of paramount importance to us.
+Failure to fulfill our obligations means not working with you, which is against our interests. 
+Rest assured, our decryption tools have been thoroughly tested and are guaranteed to unlock your data.
+Should any problems arise, we are here to support you. As a goodwill gesture, 
+we are willing to decrypt one file for free.
+
+** How to Contact us? **
+----------------------------------------------
+Using TOR Browser:
+1) You can download and install the TOR browser from this site: https://torproject.org
+2) Open our website: http://cicadapkh4vg2qh4qcoelszhftota5cdcgrwbjcesdyiwjwmsfzgobid.onion/[snip]
+
+** Useful Information **
+----------------------------------------------
+Your data can be published here.
+Public blog: http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion
+
+WARNING: DO NOT MODIFY or attempt to restore any files on your own. This can lead to their permanent loss.
