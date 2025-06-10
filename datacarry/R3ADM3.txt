@@ -1,0 +1,18 @@
+Your network has been attacked.
+All files have been encrypted with a strong encryption algorithm.
+Shadow copies also removed, so F8 or any other methods may damage encrypted data but not recover.
+We exclusively have decryption software for your situation.
+No decryption software is available in the public. If you wish to try decryption on your own, do it on a file that does not matter.
+DO NOT RESET OR SHUTDOWN, files may be damaged.
+DO NOT RENAME OR MOVE the encrypted and readme files.
+DO NOT DELETE readme files.
+This may lead to the impossibility of recovery of the certain files.
+We can provide free decryption samples.
+To get info (decrypt your files) contact us at: datacarry@riseup.net
+NOTE:
+We have also successfully backed up data such as customer information from your databases. We can provide listing.
+Ensuring if you DO NOT comply your data will be leaked. (http://dcarryhaih5oldidg3tbqwnde4lxljytnpvberrwgj2vlvunopd46dad.onion/)
+Current price: 1 BTC, can be negotiated
+Failure to meet the payment will result in your data being leaked to the public.
+Failure to contact will result in a dataleak.
+If contacting via email and you receive no response please refer to our session ID: 050d1feda2751e807b2a731f1f5fe764910ba9ea8bc46e2643d3180876a5bc953c (getsession.org)
