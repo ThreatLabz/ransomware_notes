@@ -1,0 +1,61 @@
+Your files have been stolen and encrypted by Black Lock Ransomware!
+
+Due to a security issue on your network, it was possible for
+us to gain administrator access to your device(s). Your data
+has been exported to our servers prior to encryption. You can
+recover your files and we can delete your files from our
+servers. However, This will cost you money in cryptocurrency.
+If you chose not to cooperate with us, your files will remain
+encrypted forever and they will be published for anyone to
+abuse on our dark web blog. Many will advise you not to pay
+our fee, but in the end, you will lose more money by ignoring
+this attack and getting your files leaked on our dark web blog
+like some clowns. Additionally, we will make it our priority
+to make it impossible for you to continue conducting business.
+
+This includes, but is not limited to :
+- Constantly receiving phone calls and e-mails from us
+- Having your business website shut down
+- Contacting your clients and letting them know of the security breach
+- Employee data being sold on the dark web and eventually used to make purchases or open bank accounts
+
+If you want to pay the fee, follow these steps :
+
+--- Client area (use this site to contact us):
+Install Tor Browser here :
+https://www.torproject.org/download/
+
+	Link for Tor Browser: 
+Link for Tor Browser: http://4ozbomcjurd64vgeblkoqeqirvawi3dddswriw6qespscmequmqlshyd.onion/[snip]
+
+
+Start Tor Browser and connect to the Tor network.
+
+
+Visit our
+	Blog: http://zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion
+
+When logged into the chat, send us any message to notify us.
+
+We will tell you about the decryption fee and after receiving
+payment in cryptocurrency, we will provide you with the following :
+- Decryption tool to recover your files
+- Deleting your files from our servers
+- Information on how we gained access to your network
+
+It is in our best interest to respect our part of the deal, because
+our reputation is on the line. After all, we are only here for profit."#, id);
+specifically, this part :
+
+```
+Additionally, we will make it our priority
+to make it impossible for you to continue conducting business.
+
+This includes, but is not limited to :
+- Constantly receiving phone calls and e-mails from us
+- Having your business website shut down
+- Contacting your clients and letting them know of the security breach
+- Employee data being sold on the dark web and eventually used to make purchases or open bank accounts
+```
+The encryption algorithm we used is AES 256 bits, anyone claiming
+they can decrypt your files without paying our fee is blatantly lying to you.
