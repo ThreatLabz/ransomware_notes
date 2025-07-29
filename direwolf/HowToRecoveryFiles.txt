@@ -1,0 +1,49 @@
+Dear Mr or Ms,                                                                                                                                          
+                                                                                                                                                        
+If you are reading this message, it means that:                                                                                                         
+      - your network infrastructure has been compromised                                                                                                
+      - critical data was leaked                                                                                                                       
+      - We decrypted your encrypted files. The anti-leakage system is useless to us. We can provide proof.                                             
+      - files are encrypted                                                                                                                             
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+            The best and only thing you can do is to contact us                                                                                         
+              to settle the matter before any losses occurs.                                                                                            
+			                                                                                                                                             
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+We can maintain confidentiality for 3 days for you, during which we will not disclose any information about your intrusion or data leakage.             
+We can extend the confidentiality period free of charge until we reach an agreement if you contact us within 3 days and communicate effectively with us.
+If the confidentiality period expires, we will disclose the relevant information.                                                                       
+We provide complimentary decryption testing services. For specific details, please contact us.                                                          
+                                                                                                                                                        
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+We have provided a sample document as proof of our possession of your files and you can download and check it:                                          
+                                                                                                                                                        
+	- https://gofile.io/d/[snip]                                                                                                                         
+                                                                                                                                                        
+Please be advised that your files are scheduled for public release after 30 working days.                                                               
+If you want to secure your files, we urge you to reach out to us at your earliest convenience.                                                          
+                                                                                                                                                        
+                                                                                                                                                        
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+Contact Details:                                                                                                                                        
+	- live chat room:                                                                                                                                    
+		- url:http://direwolf3ddtab5anvhulcelauvoxu2a7l264hqs6vtxtgrqsjfvodid.onion/                                                                     
+		- roomID: [snip]                                                                                                                                  
+		- username: [snip]                                                                                                                                
+		- password: [snip]                                                                                                                           
+                                                                                                                                                        
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+Our official website:                                                                                                                                   
+	- url:http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/                                                                         
+                                                                                                                                                        
+--------------------------------------------------------------------------                                                                              
+                                                                                                                                                        
+How to access .onion website:                                                                                                                           
+	1.Download and install TOR Browser https://torproject.org                                                                                            
+	2.Open it and try to access our onion address                                                                                                        
+	3.Maybe you need to use VPN if it can not open our onion address                                                                                     
