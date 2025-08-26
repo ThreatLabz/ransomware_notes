@@ -1,0 +1,43 @@
+--- ALL YOUR FILES ARE ENCRYPTED ---
+
+Your files have been encrypted.
+
+All important data on this system and connected shares has been locked using strong encryption.  
+Without our private decryption key, recovery is impossible.
+
+---
+
+TO START:
+
+1. Install Tor Browser: https://www.torproject.org/download/
+2. Open one of our links on the Tor browser.
+
+  - http://decryptjhpol6zezc72xb2mofmi6o7xlvacnrpbuiczz2sz5ljurg4id.onion/chat/[snip]
+  - http://decryptrrx2fojgfcof3aesrklj5obq7nmizyokq7ohzqxtwfcvtmwad.onion/chat/[snip]
+
+3. On the portal:
+   - Enter your unique ID: [snip]
+   - You will receive your payment instructions
+   - You can communicate with us directly and ask questions
+   - You may decrypt up to 2 small files for free as proof
+
+* You can also contact us with email: Iwannarestore@gmail.com
+---
+
+WARNINGS:
+- DO NOT rename, modify, or delete encrypted files.
+- DO NOT run third-party decryptors — they will damage your data.
+- DO NOT contact data recovery companies — they cannot help you.
+
+---
+
+WHAT HAPPENS IF YOU IGNORE THIS:
+- Your decryption key will be destroyed.
+- Sensitive data will be leaked to the public.
+- Permanent loss of access to your files.
+
+---
+
+This is strictly a business transaction.  
+No politics. No personal grudges.  
+Follow the instructions and you will recover your data.
