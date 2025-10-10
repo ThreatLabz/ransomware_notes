@@ -1,0 +1,33 @@
+# CiphBit Locker
+
+All of Your Files And Network Have Been Strongly Secured By CiphBit Locker !
+
+##################################
+## Your Decryption ID: [snip  ] ##
+##################################
+
+1) Action Required:
+
+	• Install Tor Browser via http://www.torproject.org/download
+
+	• Enter CiphBit Tor Site: http://ciphbitbj4qxxhyzgzmwwjngwv4jw6sjltwalqitktrpayiusveawmqd.onion
+
+	• After Logging in, set your password and wait for the response.
+
+
+2) Critical Instructions:
+
+	• Do Not Modify or attempt to rename the encrypted files. This may lead to permanent data loss.
+
+	• Do Not Share this information or breach details with any third party. This could be illogical.
+
+	• You have a strict 48-hour window to take action. Failure to do so will result in the publication of your sensitive information on our blog, which may have serious consequences.
+
+
+3) Additional Links:
+
+	• CiphBit Tor Data Leak Blog: http://ciphbitqyg26jor7eeo6xieyq7reouctefrompp6ogvhqjba7uo4xdid.onion
+
+	• How To Buy Bitcoin: http://www.bitcoin.com/get-started/how-to-buy-bitcoin
+
+	• Tor Browser: http://www.torproject.org
