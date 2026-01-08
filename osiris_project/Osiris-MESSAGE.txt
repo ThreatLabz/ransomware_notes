@@ -1,0 +1,10 @@
+Welcome to Osiris
+Dear executives of the [snip],
+
+Your local network has been attacked and most of the infrastructure has already been compromised. Significant (1.5 TB) sensitive information has been downloaded prior to encryption. This affects all your business locations, including the USA and India.
+Do not reboot or power off your computers.
+Shutting down or restarting your device may cause permanent loss of files or data.
+
+To address this situation promptly and effectively, it is crucial that we act quickly. Follow the link provided in the notice to learn more about the situation and how you can restore your network.
+    URL: https://osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion/app/chat/private/[snip]
+    URL: https://ausare.net/app/chat/private/[snip]
