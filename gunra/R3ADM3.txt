@@ -1,0 +1,17 @@
+Your data has been encrypted, and we have taken copies of certain sensitive files.
+This encryption was carried out for financial reasons, and a payment will be required before we can provide the tools needed to restore your data.
+You will not be able to restore your data without our assistance. We can ensure full recovery if we work together.
+To show that we are able to restore your files, we can decrypt a few non-critical files at no cost.
+If we reach an agreement, we will keep all discussions private and delete the data we took.
+Please see the contact information below for the next steps.
+
+
+========================== How to Contact Us ==========================
+
+Please download Tor Browser from the URL https://www.torproject.org/
+Then install and open it.
+Then connect to the URL below and log in with the given credentials.
+
+Contact URL: http://nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion
+Client ID: [snip]
+Initial password: [snip]
