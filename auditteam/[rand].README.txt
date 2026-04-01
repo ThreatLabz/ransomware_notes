@@ -1,0 +1,41 @@
+====================================================================
+[ AUDIT LOG: SEVERE INFRASTRUCTURE COMPROMISE VERIFIED ]
+====================================================================
+
+ATTN: Executive Management and Legal Compliance Teams
+
+This notice serves as absolute cryptographic proof that your network 
+defenses have been fully bypassed. We have acquired extensive archives 
+of your corporate data, internal communications, and protected records.
+
+Your failure to implement adequate security controls is now a severe 
+liability for your board of directors and stakeholders.
+
+[ CURRENT STATUS ]
+Your entity is currently operating within a private Remediation Window 
+on our DATA EXPOSURE LOGS. 
+
+You have two options:
+
+OPTION A (REMEDIATION): 
+Access our secure portal, initiate contact, and pay the Audit & 
+Consulting fee. We will permanently purge the acquired data and provide 
+a report on your vulnerabilities. Your reputation and compliance status 
+remain intact.
+
+OPTION B (PUBLIC TRANSPARENCY): 
+Ignore this notice. Once the countdown expires, we will release the 
+entire data archive to the public internet. We will also directly 
+notify your clients, partners, and regulatory oversight bodies of 
+your negligence. Prepare for massive statutory fines and lawsuits.
+
+1. Download and install the Tor Browser:
+   https://www.torproject.org/
+
+2. Open the Tor Browser and enter the following address:
+http://6tdqqaxftvradka5d2frzgwixis7fmro7rfh4ettzcx7jfapkebe6jad.onion
+
+3. Use your Audit ID to contact us: [snip]
+
+The decision belongs to your executive board. Disclosure is imminent.
+====================================================================
