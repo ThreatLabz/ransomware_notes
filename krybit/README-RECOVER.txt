@@ -6,12 +6,14 @@ Your network/system was encrypted.
 
 Encrypted files have new extension. 
 
+
 --Blog
 
 http://krybitxdpxohsmjooeb3gbgpmdddreh6mnflzac6bnezz74b7yje67yd.onion/
 http://krybitx3fh5krdnhegyp2ob3lhizsaiadturtio3ginf7it5gsdgu2yd.onion/
 http://krybitqsdzwmhnitvwuhvsntfgf2wrhxveyxroxpc44c6gkft2cqldyd.onion/
 http://krybieodq754vlwufrsuxaswxb5zpxyibaawmed2jaduoz2e5m56hmid.onion/
+
 
 -- Compromising and sensitive data 
 
@@ -48,12 +50,12 @@ You need cipher key / our decrypt software to restore you files.
 The police or authorities will not be able to help you get the cipher key. We encourage you to consider your decisions. 
 
 
+
 -- Recovery 
 
 1) Download tor browser: https://www.torproject.org/download/ 
 
-2) Visit the chat: 
+2) Visit the chat: http://krybitx3fh5krdnhegyp2ob3lhizsaiadturtio3ginf7it5gsdgu2yd.onion/chat/[snip]/
 
-3) Use this ID to log in: 
-
-4) Supp: [snip]
+3) Use this ID to log in: [snip]
+4) Supp: 071EA649F06BDB7123C99653B7371E3B59860EE405E66A31EE0FD385F745A000405B6846ECBC
