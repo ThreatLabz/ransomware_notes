@@ -1,0 +1,44 @@
+Welcome to Payload!
+
+The next 72 hours will determine certain factors in the life of your company: 
+the publication of the file tree, which we have done safely and unnoticed by all of you, 
+and the publication of your company's full name on our luxurious blog.
+NONE of this will happen if you contact us within this time frame and our negotiations are favorable.
+
+We are giving you 240 hours to:
+1. familiarize yourself with our terms and conditions,
+2. begin negotiations with us,
+3. and successfully conclude them.
+The timer may be extended if we deem it necessary (only in the upward direction).
+Once the timer expires, all your information will be posted on our blog.
+
+ATTENTION!
+Contacting authorities, recovery agencies, etc. WILL NOT HELP YOU!
+At best, you will waste your money and lose some of your files, which they will carefully take to restore!
+You should also NOT turn off, restart, or put your computer to sleep.
+In the future, such mistakes can make the situation more expensive and the files will not be restored!
+We DO NOT recommend doing anything with the files, as this will make it difficult to recover them later!
+
+When contacting us:
+you can request up to 3 files from the file tree, 
+you can request up to 3 encrypted files up to 15 megabytes 
+so that we can decrypt them and you understand that we can do it.
+
+First, you should install Tor Browser:
+1. Open: https://www.torproject.org/download
+2. Choose your OS and select it
+3. Run installer
+4. Enjoy!
+
+In countries where tor is prohibited, we recommend using bridges, 
+which you can take: https://bridges.torproject.org/
+
+You can read:
+http://payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion (Tor)
+
+To start negotiations, go to http://payloadynyvabjacbun4uwhmxc7yvdzorycslzmnleguxjn7glahsvqd.onion and login:
+User: [snip]
+Password: [snip]
+
+Your ID to verify: [snip]
+
