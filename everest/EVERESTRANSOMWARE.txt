@@ -1,0 +1,18 @@
+Dear [snip],
+Greetings from the Everest team. Your systems have been attacked, the files are encrypted. You can read about us in our blog (Tor browser needed)
+Blog : ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion
+Or read about our group in Twitter
+Also, our team was able to bypass your "Dataprotection" as any other your protection software and more than 1 Terabyte of internal files were exfiltrated to our servers, which we can confirm with great joy and ease
+The list contains financial documents, internal orders, KYC information(documents,photos...), trusted representatives personal info
+Client risk levels,loans, debt and client data. Various financial documentation, backups , etc. etc.
+The information was collected both from personal PCs and from centralized storage locations.
+If an agreement is reached with us, this information will never be published and the problem will disappear as if it never happened, otherwise it will be posted on our blog and darknet. Which will lead to even greater financial and reputational losses on your part.
+Also you will get 
+1.Attack logbook (months of experience with your company) with full list of vulnerabilities and bypass methods
+2.Advices how to singifically improve your security and avoid such attacks in the future
+3.We will delete all files from your company
+4.We will attack your company no more
+Yours trully Everest Team
+Email to contact: everestaf@onionmail.org
+Your key: 
+[snip]
